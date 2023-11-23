@@ -48,7 +48,7 @@ button:hover {
 ul {
   list-style-type: none;
   padding: 0;
-  min-width: 60vw;
+  min-width: 40vw;
 }
 li {
   background-color: #f5f5f5;
