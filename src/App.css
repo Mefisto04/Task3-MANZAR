@@ -89,6 +89,7 @@ button.delete-btn:hover {
   padding: 50px 50px;
   border-radius: 20px;
   border: 1px black solid;
+  box-shadow:0 15px 35px rgba(30, 22, 22, 0.389);
 
 }
 body{
